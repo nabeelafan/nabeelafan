@@ -5,9 +5,9 @@
 
 
 
-- 💬 Ask me about **Reactjs,Nextjs**
+- 💬 Ask me about **Python ,Flutter**
 
-- 📫 How to reach me **basitsharif35@gmail.com**
+- 📫 How to reach me **nabeelafan@gmail.com**
 
 
 - ⚡ Fun fact: **I am crazy about development.**  
